@@ -1,0 +1,11 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": true,
+  "semi": false,
+  "trailingCommas": {
+    "array": true,
+    "object": true,
+    "function": true
+  }
+}
